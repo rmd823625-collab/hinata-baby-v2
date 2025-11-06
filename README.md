@@ -39,18 +39,11 @@ Tutorial has been uploaded on YouTube
 
 **Contact me**
 
-<div>
-  <h3>
-    <a href="https://www.facebook.com/mahmud0x7" style="color: black;" target="_blank" rel="noopener">MahMUD (Facebook)</a>
-    &nbsp;|&nbsp;
-    <!-- WhatsApp: Replace 8801XXXXXXXX with your full phone number (country code + local) without + or leading zeros -->
-    <a href="https://wa.me/8801XXXXXXXX?text=Hi%20MahMUD%2C%20I%27d%20like%20to%20connect." style="color: black;" target="_blank" rel="noopener">WhatsApp</a>
-    &nbsp;|&nbsp;
-    <!-- Gmail: Replace yourname@example.com with your email -->
-    <a href="mailto:yourname@example.com?subject=Hello%20MahMUD&body=Hi%20there%2C%0A%0AI%20wanted%20to%20get%20in%20touch%20regarding..." style="color: black;">Gmail</a>
-  </h3>
+<<div style="font-family: Arial, sans-serif; color: black;">
+  <h3>- <a href="https://www.facebook.com/mahmud0x7" style="color: black; text-decoration: none;" target="_blank" rel="noopener">MahMUD Facebook</a></h3>
+  <h3>- <a href="https://wa.me/8801XXXXXXXX?text=Hi%20MahMUD%2C%20I%20want%20to%20chat%20with%20you!" style="color: black; text-decoration: none;" target="_blank" rel="noopener">MahMUD WhatsApp</a></h3>
+  <h3>- <a href="mailto:yourname@example.com?subject=Hello%20MahMUD&body=Hi%20MahMUD!" style="color: black; text-decoration: none;">MahMUD Gmail</a></h3>
 </div>
-
 
 
 <img align="center" src="https://i.imgur.com/UM3ekFf.jpeg"/>
